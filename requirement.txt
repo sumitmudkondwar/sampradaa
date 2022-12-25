@@ -1,0 +1,6 @@
+1. Repository created. (Done)
+2. List the requirements. (Pending)
+3. Refactor the requirements (Pending)
+4. prepare DB
+5. list down technology stack
+6. 
